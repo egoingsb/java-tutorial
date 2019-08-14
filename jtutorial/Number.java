@@ -7,6 +7,7 @@ public class Number {
 		Integer right = 100;
 		System.out.println(left+right);
 		System.out.println(left.compareTo(right));
+		System.out.println(1.1*10);
 		
 		String name = "egoing";
 		String letter = "Lorem ipsum "+name+" sit amet, consectetur adipiscing elit. "+name+" Donec eleifend diam ac iaculis placerat.";
