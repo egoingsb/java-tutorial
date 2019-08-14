@@ -6,6 +6,7 @@ public class Number {
 		Integer left = 1;
 		Integer right = 1;
 		System.out.println(left+right);
+		System.out.println(left.MAX_VALUE);
 		
 		String name = "egoing";
 		String letter = "Lorem ipsum "+name+" sit amet, consectetur adipiscing elit. "+name+" Donec eleifend diam ac iaculis placerat.";
