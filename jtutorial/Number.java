@@ -11,6 +11,7 @@ public class Number {
 		String name = "egoing";
 		String letter = "Lorem ipsum "+name+" sit amet, consectetur adipiscing elit. "+name+" Donec eleifend diam ac iaculis placerat.";
 		System.out.println(letter);
+		System.out.println(letter.indexOf(name));
 	}
 
 }
