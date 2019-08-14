@@ -11,6 +11,7 @@ public class Number {
 		String letter = "sadkfj sldf"
 				+ "asdfsadfsadf"
 				+ "asdfasdfsdafsadf";
+		System.out.println(letter);
 	}
 
 }
