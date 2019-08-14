@@ -6,6 +6,7 @@ public class Number {
 		// TODO Auto-generated method stub
 		Integer left = 1;
 		Integer right = 1;
+		System.out.println(left+right);
 	}
 
 }
