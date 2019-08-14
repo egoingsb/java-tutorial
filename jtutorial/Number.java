@@ -13,7 +13,7 @@ public class Number {
 		System.out.println(letter);
 		System.out.println(letter.indexOf(name));
 		System.out.println(letter.length());
-		System.out.println(letter.replace(name, "Leeche"));
+		System.out.println(letter.replace(name, "duru"));
 	}
 
 }
