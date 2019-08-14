@@ -8,7 +8,7 @@ public class Number {
 		System.out.println(left+right);
 		
 		String name = "egoing";
-		String letter = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eleifend diam ac iaculis placerat.";
+		String letter = "Lorem ipsum "+name+" sit amet, consectetur adipiscing elit.  \"+name+\"Donec eleifend diam ac iaculis placerat.";
 		System.out.println(letter);
 	}
 
