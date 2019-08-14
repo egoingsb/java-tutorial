@@ -5,7 +5,7 @@ public class Number {
 	public static void main(String[] args) {
 		Integer left = 1;
 		Integer right = 2;
-		System.out.println(left+right);
+		System.out.println(left);
 		System.out.println(left.compareTo(right));
 		
 		String name = "egoing";
