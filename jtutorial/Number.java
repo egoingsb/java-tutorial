@@ -4,7 +4,7 @@ public class Number {
 
 	public static void main(String[] args) {
 		Integer left = 1;
-		Integer right = 1;
+		Integer right = 100;
 		System.out.println(left+right);
 		System.out.println(left.compareTo(right));
 		
